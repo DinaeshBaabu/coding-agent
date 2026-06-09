@@ -9,13 +9,13 @@ I built this to go beyond basic API tutorials and actually understand what's hap
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Agent working in real time
-![Live Logs](screenshots/live_logs.png)
+![Live Logs](Screenshots/live_logs.png)
 
 ### Final generated code
-![Output Files](screenshots/output_files.png)
+![Output Files](Screenshots/output_files.png)
 
 ---
 
